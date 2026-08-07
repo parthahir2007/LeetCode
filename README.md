@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/parthahir2007/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/parthahir2007/LeetCode/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
 <!---LeetCode Topics End-->

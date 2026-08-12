@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
 | [1200-minimum-absolute-difference](https://github.com/parthahir2007/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/parthahir2007/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -43,8 +44,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/parthahir2007/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/parthahir2007/LeetCode/tree/master/1200-minimum-absolute-difference) |
+## Hash Table
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/parthahir2007/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/parthahir2007/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/parthahir2007/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/parthahir2007/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/parthahir2007/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->

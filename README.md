@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/parthahir2007/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
+| [1200-minimum-absolute-difference](https://github.com/parthahir2007/LeetCode/tree/master/1200-minimum-absolute-difference) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/parthahir2007/LeetCode/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthahir2007/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/parthahir2007/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthahir2007/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/parthahir2007/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |

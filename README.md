@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/parthahir2007/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/parthahir2007/LeetCode/tree/master/0326-power-of-three) |
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/parthahir2007/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/parthahir2007/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/parthahir2007/LeetCode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |

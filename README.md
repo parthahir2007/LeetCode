@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
 | [1200-minimum-absolute-difference](https://github.com/parthahir2007/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parthahir2007/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/parthahir2007/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/parthahir2007/LeetCode/tree/master/0932-beautiful-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/parthahir2007/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parthahir2007/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/parthahir2007/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/parthahir2007/LeetCode/tree/master/0231-power-of-two) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parthahir2007/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -85,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/parthahir2007/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parthahir2007/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parthahir2007/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/parthahir2007/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

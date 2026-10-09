@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthahir2007/LeetCode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/parthahir2007/LeetCode/tree/master/0039-combination-sum) |
+| [0322-coin-change](https://github.com/parthahir2007/LeetCode/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthahir2007/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/parthahir2007/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/parthahir2007/LeetCode/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/parthahir2007/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -108,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/parthahir2007/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/parthahir2007/LeetCode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/parthahir2007/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/parthahir2007/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
